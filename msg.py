@@ -4,8 +4,8 @@ import fbchat.models as models
 from datetime import datetime
 from PIL import Image
 
-uname = 'rawceek04@gmail.com'#change to your username 
-pwd = 'jroUa9S4KZdgMJ'  #and password
+uname = #change to your username 
+pwd =#and password
 client = Client(uname, pwd)
 
 red = "\033[1;31m"
